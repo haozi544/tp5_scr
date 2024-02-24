@@ -1,0 +1,557 @@
+---------------------------------------------------------------
+
+[2023-05-21T15:58:02+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.945723s] [吞吐率：1.06req/s] [内存消耗：1,694.02kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T16:53:07+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.035715s] [吞吐率：28.00req/s] [内存消耗：1,694.04kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T17:01:02+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.040574s] [吞吐率：24.65req/s] [内存消耗：1,694.04kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T17:27:11+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.038958s] [吞吐率：25.67req/s] [内存消耗：1,693.93kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T17:41:01+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.037017s] [吞吐率：27.01req/s] [内存消耗：1,694.04kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T17:44:23+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.036541s] [吞吐率：27.37req/s] [内存消耗：1,694.04kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T17:49:55+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.012736s] [吞吐率：78.52req/s] [内存消耗：1,694.08kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T17:50:10+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.014868s] [吞吐率：67.26req/s] [内存消耗：1,694.04kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T17:51:06+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.015135s] [吞吐率：66.07req/s] [内存消耗：1,693.93kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T19:38:37+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.912784s] [吞吐率：1.10req/s] [内存消耗：1,694.04kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T20:21:31+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.037978s] [吞吐率：26.33req/s] [内存消耗：1,694.04kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T20:33:19+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.053187s] [吞吐率：18.80req/s] [内存消耗：1,695.02kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T20:35:04+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.252110s] [吞吐率：3.97req/s] [内存消耗：1,761.02kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'ali\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:16]
+---------------------------------------------------------------
+
+[2023-05-21T20:35:32+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.038773s] [吞吐率：25.79req/s] [内存消耗：1,761.09kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:16]
+---------------------------------------------------------------
+
+[2023-05-21T20:35:32+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.035922s] [吞吐率：27.84req/s] [内存消耗：1,761.09kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:16]
+---------------------------------------------------------------
+
+[2023-05-21T20:35:33+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.035958s] [吞吐率：27.81req/s] [内存消耗：1,761.09kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:16]
+---------------------------------------------------------------
+
+[2023-05-21T20:35:33+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.035663s] [吞吐率：28.04req/s] [内存消耗：1,761.09kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:16]
+---------------------------------------------------------------
+
+[2023-05-21T20:35:54+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.032677s] [吞吐率：30.60req/s] [内存消耗：1,761.09kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:15]
+---------------------------------------------------------------
+
+[2023-05-21T20:35:54+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.035947s] [吞吐率：27.82req/s] [内存消耗：1,761.09kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'app\index\controller\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:15]
+---------------------------------------------------------------
+
+[2023-05-21T20:37:02+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.033951s] [吞吐率：29.45req/s] [内存消耗：1,695.02kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2023-05-21T20:37:19+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.035628s] [吞吐率：28.07req/s] [内存消耗：1,761.02kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'ali\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:15]
+---------------------------------------------------------------
+
+[2023-05-21T20:37:31+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.036079s] [吞吐率：27.72req/s] [内存消耗：1,761.02kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'ali\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:15]
+---------------------------------------------------------------
+
+[2023-05-21T20:37:31+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.035056s] [吞吐率：28.53req/s] [内存消耗：1,761.02kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'ali\Send' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:15]
+---------------------------------------------------------------
+
+[2023-05-21T20:38:02+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.043941s] [吞吐率：22.76req/s] [内存消耗：1,761.01kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'ali\S' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:15]
+---------------------------------------------------------------
+
+[2023-05-21T20:38:02+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.036401s] [吞吐率：27.47req/s] [内存消耗：1,761.01kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Class 'ali\S' not found[D:\phpstudy_pro\WWW\imooc_tp5\application\index\controller\Index.php:15]
+---------------------------------------------------------------
+
+[2023-05-21T20:42:33+08:00] 127.0.0.1 GET www.thinkphp5.com/index.php/index/Index/index
+[运行时间：0.045605s] [吞吐率：21.93req/s] [内存消耗：1,694.88kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)

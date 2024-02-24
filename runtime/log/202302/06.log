@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+
+[2023-02-06T22:51:50+08:00] 127.0.0.1 GET www.thinkphp5.com/
+[运行时间：0.652405s] [吞吐率：1.53req/s] [内存消耗：1,691.10kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\imooc_tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.thinkphp5.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
