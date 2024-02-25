@@ -22,7 +22,7 @@ class Index
     public function test()
     {
         // dev 测试分支
-        var_dump('这是dev分支版本aaaa开发内容');
+        var_dump('这是dev分支版本开发内容1111');
     }
 
     /**
