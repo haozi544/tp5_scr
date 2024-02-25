@@ -21,8 +21,8 @@ class Index
 
     public function test()
     {
-        // 加上/因为命名空间问题，不加就是当前命名空间的config类（不存在）
-        var_dump(\Config::get('app.test_param'));
+        // dev 测试分支
+        var_dump('这是dev分支版本aaaa开发内容1111，测试贮藏功能');
     }
 
     public function hotfixTest()
