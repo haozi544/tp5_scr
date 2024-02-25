@@ -31,7 +31,7 @@ class Index
         // master 线上分支
         // hotfix 紧急修复分支
 
-        var_dump('模拟紧急修复线上功能');
+        var_dump('模拟紧急修复线上功能1111');
     }
 
     /**
