@@ -10,8 +10,8 @@ class Index
 {
     public function index()
     {
-//        echo 'hello index';
-        Sms::send();
+        echo 'hello index';
+//        Sms::send();
     }
 
     public function hello($name = 'ThinkPHP5')
