@@ -25,6 +25,15 @@ class Index
         var_dump(\Config::get('app.test_param'));
     }
 
+    public function hotfixTest()
+    {
+        // dev 测试分支
+        // master 线上分支
+        // hotfix 紧急修复分支
+
+        var_dump('模拟紧急修复线上功能');
+    }
+
     /**
      * 调用类似extend文件夹的静态方法
      */
